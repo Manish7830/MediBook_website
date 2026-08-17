@@ -173,7 +173,7 @@ export default function Home() {
                       Patient dashboard
                     </p>
                     <h2 className="mt-1 text-lg font-bold text-white">
-                      Good morning, Alex
+                      Good morning, MANISH
                     </h2>
                   </div>
 
