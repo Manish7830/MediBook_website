@@ -112,7 +112,7 @@ export default function Home() {
             </div>
 
             <h1 className="max-w-4xl text-5xl font-black leading-[1.05] tracking-[-0.04em] text-white sm:text-6xl lg:text-7xl">
-              Healthcare access,
+              Phases of DevOps,
               <span className="block text-emerald-400">
                 made simpler.
               </span>
